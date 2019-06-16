@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yanzhiw.github.io/</id>
-    <title>Gridea</title>
-    <updated>2019-06-16T02:47:14.282Z</updated>
+    <title>胭脂王万事屋</title>
+    <updated>2019-06-16T02:47:36.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yanzhiw.github.io/"/>
     <link rel="self" href="https://yanzhiw.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>有关套利和人生的碎碎念</subtitle>
     <logo>https://yanzhiw.github.io//images/avatar.png</logo>
     <icon>https://yanzhiw.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 胭脂王万事屋</rights>
     <entry>
         <title type="html"><![CDATA[门槛]]></title>
         <id>https://yanzhiw.github.io//post/men-jian</id>
